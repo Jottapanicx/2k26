@@ -1,2 +1,2 @@
 # 2k26
-junior dev projects 
+uns códigos pra treinar py , apenas.
