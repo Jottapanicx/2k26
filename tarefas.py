@@ -1,4 +1,4 @@
-#10/06/2026
+#10/06/2026 mini gerenciador de tarefas 
 import os
 
 tarefas = []
