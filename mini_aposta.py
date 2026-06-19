@@ -1,3 +1,4 @@
+# mini casa de apostaa
 import random 
 
 saldo = 0 
